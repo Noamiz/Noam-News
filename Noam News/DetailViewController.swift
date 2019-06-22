@@ -12,7 +12,7 @@
  * For connecting our 'Note' view controller to the 'DetailViewController' class we select the view controller object of the 'Note' scene (top left at the bar) and then at the utility area we select the 'identity inspector'. At the 'Class' field we select 'DetailViewController' and now they are connected.
  
  
- 2. Connection between our text view in the 'Note' screen to our detailViewController class
+ 2. Connection between our text view in the 'Note' screen to our detailViewController class.
  
  3. For setting the content of the text view we created a setter.
  
